@@ -3,6 +3,7 @@
 <h3 align="center">A passionate Laravel developer with a knack for crafting elegant web solutions. With a keen eye for detail and a love for clean, efficient code, I specialize in building robust applications using the Laravel framework.</h3>
 
 <h1>About me</h1>
+
 - 💼 Junior Laravel Developer at [Onviro Tech](https://onvirotech.net/)
 
 - ❤️ I love writing Codes, enjoy building dynamic web applications and enjoy fixing bugs
