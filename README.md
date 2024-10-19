@@ -18,24 +18,12 @@
 </p>
 <hr>
 <h3 align="left">FrontEnd:</h3>
-<a href="https://react.dev" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="https://www.svgrepo.com/show/354259/react.svg" alt="react" height="40" width="40"/>
-</a>
-<a href="https://redux.js.org" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="https://www.svgrepo.com/show/452093/redux.svg" alt="redux" height="40" width="40"/>
-</a>
-<a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwind" height="40" width="40"/>
-</a>
-<a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="https://www.svgrepo.com/show/353498/bootstrap.svg" alt="bootstrap" height="40" width="40"/>
-</a>
-<a href="https://www.javascript.com" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="https://www.svgrepo.com/show/452045/js.svg" alt="javascript" height="40" width="40"/>
-</a>
-<a href="https://jquery.com" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="https://www.svgrepo.com/show/452242/jquery.svg" alt="jquery" height="40" width="40"/>
-</a>
+<a href="https://react.dev" target="_blank" rel="noopener noreferrer"><img align="center" src="https://www.svgrepo.com/show/354259/react.svg" alt="react" height="40" width="40" /></a>
+<a href="https://redux.js.org" target="_blank" rel="noopener noreferrer"><img align="center" src="https://www.svgrepo.com/show/452093/redux.svg" alt="redux" height="40" width="40" /></a>
+<a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwind" height="40" width="40" /></a>
+<a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://www.svgrepo.com/show/353498/bootstrap.svg" alt="bootstrap" height="40" width="40" /></a>
+<a href="https://www.javascript.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://www.svgrepo.com/show/452045/js.svg" alt="javascript" height="40" width="40" /></a>
+<a href="https://jquery.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://www.svgrepo.com/show/452242/jquery.svg" alt="jquery" height="40" width="40" /></a>
 <hr>
 <h3 align="left">BackEnd:</h3>
 <a href="https://www.php.net" target="_blank" rel="noopener noreferrer"><img align="center" src="https://www.svgrepo.com/show/354180/php.svg" alt="raju" height="40" width="40"  /></a>
