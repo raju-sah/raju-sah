@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raju Sah</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raju-sah&label=Profile%20views&color=0e75b6&style=flat" height="30" alt="raju" /> </p>
-<h3 align="center">A Full Stack Developer with expertise in React, Redux-toolkit, Laravel, PHP, REST APIs, MySQL, PostgreSQL and Linux. I have a knack for creating dynamic, efficient, secure, and scalable web applications following best industry practices. Explore my projects and see how I can help bring your ideas to life!</h3>
+<h3 align="center">A Full Stack Developer with expertise in Java, SpringBoot, Angular, React, Redux-toolkit, Zustand, React-Native, Laravel, PHP, MySQL, PostgreSQL, Redis and Linux. I have a knack for creating dynamic, efficient, secure, and scalable web applications following best industry practices. Explore my projects and see how I can help bring your ideas to life!</h3>
 
 <h1>About me</h1>
 
