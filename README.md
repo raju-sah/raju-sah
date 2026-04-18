@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raju Sah</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raju-sah&label=Profile%20views&color=0e75b6&style=flat" height="30" alt="raju" /> </p>
-<h3 align="center">A Full Stack Developer with expertise in Java, SpringBoot, Angular, React, Redux-toolkit, Zustand, React-Native, Laravel, PHP, MySQL, PostgreSQL, Redis and Linux. I have a knack for creating dynamic, efficient, secure, and scalable web applications following best industry practices. Explore my projects and see how I can help bring your ideas to life!</h3>
+<h3 align="center">A Full Stack Developer with expertise in Java, SpringBoot, Angular, React, React-Native, Laravel, PHP, MySQL, PostgreSQL, Redis and Linux. I have a knack for creating dynamic, efficient, secure, and scalable web applications following best industry practices. Explore my projects and see how I can help bring your ideas to life!</h3>
 
 <h1>About me</h1>
 
@@ -20,11 +20,9 @@
 <h3 align="left">Frontend:</h3>
 <a href="https://react.dev" target="_blank"><img align="center" src="https://www.svgrepo.com/show/354259/react.svg" height="40" width="40" /></a>
 <a href="https://angular.io" target="_blank"><img align="center" src="https://www.svgrepo.com/show/452156/angular.svg" height="40" width="40" /></a>
-<a href="https://vuejs.org" target="_blank"><img align="center" src="https://www.svgrepo.com/show/354528/vue.svg" height="40" width="40" /></a>
 <a href="https://reactnative.dev" target="_blank"><img align="center" src="https://reactnative.dev/img/header_logo.svg" height="40" width="40" /></a>
 <a href="https://redux.js.org" target="_blank"><img align="center" src="https://www.svgrepo.com/show/452093/redux.svg" height="40" width="40" /></a>
 <a href="https://tailwindcss.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/374118/tailwind.svg" height="40" width="40" /></a>
-<a href="https://getbootstrap.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/353498/bootstrap.svg" height="40" width="40" /></a>
 <a href="https://www.javascript.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/452045/js.svg" height="40" width="40" /></a>
 
 <hr>
