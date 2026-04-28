@@ -31,7 +31,7 @@
 
 <hr>
 
-### 🛠️ Technical Arsenal
+### 🛠️ Tech Stack
 
 <table>
   <tr>
