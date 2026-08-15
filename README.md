@@ -70,7 +70,6 @@
       <img src="https://skillicons.dev/icons?i=java" width="40" alt="Java"/> <strong>Java</strong> &nbsp;&nbsp;
       <img src="https://skillicons.dev/icons?i=php" width="40" alt="PHP"/> <strong>PHP</strong> &nbsp;&nbsp;
       <img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript"/> <strong>JS</strong> &nbsp;&nbsp;
-      <img src="https://skillicons.dev/icons?i=r" width="40" alt="R"/> <strong>R</strong>
     </td>
   </tr>
 
